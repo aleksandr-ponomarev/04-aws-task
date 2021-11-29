@@ -6,7 +6,7 @@
     VPCName:
       Description: The name of the VPC being created.
       Type: String
-      Default: "Wordpress-aws-task"
+      Default: "Wordpress-Aws-Task"
 
   Mappings:
     SubnetConfig:
